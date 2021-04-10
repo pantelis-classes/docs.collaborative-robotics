@@ -1,1 +1,2 @@
-# collaborative-robotics
+# Documentation for Collaborative Robotics project
+
