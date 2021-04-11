@@ -12,6 +12,7 @@ The single most important source of information on each AWS service is the devel
 ## Debugging
 
 For debugging code, use c9 development instances. Select Ubuntu 18.04 or 20.04 instances. They will provide a native linux environment to do your work. 
+
 ## Cost Estimate and Management
 
 The biggest [cost of the service](https://aws.amazon.com/robomaker/pricing/) is clearly associated with the simulation runs.  

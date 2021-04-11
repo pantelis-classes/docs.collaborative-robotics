@@ -6,7 +6,7 @@ title: EC2-based Development Environment for World Models
 
 ## Debugging
 
-For debugging code, use c9 development instances. Select Ubuntu 18.04 or 20.04 instances. They will provide a native linux environment to do your work. 
+For debugging code, use AWS cloud 9 development environments . Select Ubuntu 18.04 or 20.04 instances. They will provide a native linux environment to do your work. 
 
 ## EC2 instances
 
